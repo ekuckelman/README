@@ -1,1 +1,1 @@
-This is our practice for git
+This is not our  practice for git, it is mine!
